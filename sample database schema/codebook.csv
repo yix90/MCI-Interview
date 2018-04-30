@@ -1,0 +1,31 @@
+id,question_id,value,label
+101,Q1,1,Strongly disagree
+102,Q1,2,Disagree
+103,Q1,3,Neutral
+104,Q1,4,Agree
+105,Q1,5,Strongly agree
+106,Q1,6,Don’t know / Not sure
+107,Q2,1,Strongly disagree
+108,Q2,2,Disagree
+109,Q2,3,Neutral
+110,Q2,4,Agree
+111,Q2,5,Strongly agree
+112,Q2,6,Don’t know / Not sure
+113,Q3_1,1,Selected
+114,Q3_1,0,Not selected
+115,Q3_2,1,Selected
+116,Q3_2,0,Not selected
+117,Q3_3,1,Selected
+118,Q3_3,0,Not selected
+119,Q3_4,1,Selected
+120,Q3_4,0,Not selected
+121,Q3_5,1,Selected
+122,Q3_5,0,Not selected
+123,Q3_6,1,Selected
+124,Q3_6,0,Not selected
+125,Q4,1,TRUE
+126,Q4,0,FALSE
+127,Q5,1,TRUE
+128,Q5,0,FALSE
+129,Sex,1,Male
+130,Sex,2,Female
